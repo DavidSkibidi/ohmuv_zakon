@@ -1,0 +1,21 @@
+{
+    "name": "Ohmův zákon kalkulačka",
+    "short_name": "OhmCalc",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#e6f7ff",
+    "theme_color": "#007BFF",
+    "icons": [
+      {
+        "src": "ikona.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "ikona.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
