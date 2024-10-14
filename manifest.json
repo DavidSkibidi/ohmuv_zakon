@@ -5,9 +5,10 @@
     "display": "standalone",
     "background_color": "#e6f7ff",
     "theme_color": "#007BFF",
+    
     "icons": [
       {
-        "src": "ikona.png",
+        "src": "ohmobrazek",
         "sizes": "192x192",
         "type": "image/png"
       },
